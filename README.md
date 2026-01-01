@@ -14,6 +14,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=PrabakaranPalanisamy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PrabakaranPalanisamy&icon=0&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
